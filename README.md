@@ -9,6 +9,7 @@ This is a highly UI-based video editing SDK. developers can easily implement cus
 * Variable speed shooting
 * Zoom and focus
 * [More functions](http://www.verysdk.com/function.html)
+![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/photos/shoot.png)
 
 ### Video Editing
 * Picture in picture, multi-grid video
