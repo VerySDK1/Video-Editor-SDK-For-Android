@@ -10,7 +10,7 @@ This is a highly UI-based video editing SDK. developers can easily implement cus
 * Zoom and focus
 * [More functions](http://www.verysdk.com/function.html)
 
-![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/Shooting.png)
+[![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/Shooting.png)](http://www.verysdk.com)
 
 ### Video Editing
 * Picture in picture, multi-grid video
@@ -26,11 +26,15 @@ This is a highly UI-based video editing SDK. developers can easily implement cus
 * Change speed
 * [More functions](http://www.verysdk.com/function.html)
 
+[![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/Editing.png)](http://www.verysdk.com)
+
 ### Video Templates
 * Music album
 * Video templates
 * Camera templates
 * [More functions](http://www.verysdk.com/function.html)
+
+[![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/Template.png)](http://www.verysdk.com)
 
 ### Export
 * Draft box
