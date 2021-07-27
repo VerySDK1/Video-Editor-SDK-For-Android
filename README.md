@@ -53,6 +53,9 @@ Processor: Dual core 1GHz CPU and above (Currently only supports ARM CPU and X86
 
 Memory: Above 1 GB
 
+## SDK download
+[![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/Android_Download.png)](http://www.verysdk.com/document.html)
+
 ## Contact us
 Email: support@verysdk.com
 
