@@ -59,6 +59,9 @@ Processor: Dual core 1GHz CPU and above (Currently only supports ARM CPU and X86
 
 Memory: Above 1 GB
 
+## Scan the QR code to download the demo
+[![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/QR_Video Editor.jpg)](http://www.verysdk.com)
+
 ## SDK download
 [![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/Android_download.png)](http://www.verysdk.com/document.html)
 
